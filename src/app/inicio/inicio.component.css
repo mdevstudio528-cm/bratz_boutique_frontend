@@ -2,6 +2,13 @@
    INICIO · LAS BRATZ BOUTIQUE — REDISEÑO
    Mismas clases y estructura, estilos mejorados.
    ============================================================ */
+/* ---- Reset de caja: evita que padding y borde sumen ancho ---- */
+:host,
+:host *,
+:host *::before,
+:host *::after {
+  box-sizing: border-box;
+}
 
 :host {
   /* ---- Paleta y tokens reutilizables ---- */
