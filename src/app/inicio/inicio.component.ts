@@ -28,7 +28,7 @@ export class InicioComponent implements OnInit {
   searchTerm = '';
   currentIndex = 0;
 
-  private readonly WHATSAPP_NUMBER = '7713535455';
+  private readonly WHATSAPP_NUMBER = '7711513192';
 
   /* Apps Script de bratz_boutique (devuelve JSON) */
   private readonly API_URL =

@@ -15,6 +15,6 @@ export class HeaderComponent {
   readonly facebookUrl = 'https://www.facebook.com/Lasbratzboutique?locale=es_LA';
   readonly mapsUrl     = 'https://maps.app.goo.gl/eQ1iAgRphf7hV2BBA';
   readonly whatsappUrl =
-    'https://wa.me/7713535455?text=' +
+    'https://wa.me/7711513192?text=' +
     encodeURIComponent('Hola! Vengo de la pagina de Las Bratz Boutique y quiero informacion.');
 }
